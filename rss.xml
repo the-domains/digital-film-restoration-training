@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digital Film Restoration Training]]></title>
+        <description><![CDATA[Digital Film Restoration Training]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 19:54:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c6b639c-460c-4ff3-95f3-51eb335ebdc0.jpg">]]></description>
+            <link>undefinedcoming-soon/index.html</link>
+            <guid isPermaLink="false">23ef8135-f874-4e34-baa6-eefdcdd0c86b</guid>
+            <pubDate>Sun, 01 May 2016 19:53:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
