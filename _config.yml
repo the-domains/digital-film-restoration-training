@@ -1,0 +1,28 @@
+name: Digital Film Restoration Training
+favicon: null
+layout_spectrum: 0.9194098515436053
+typography_spectrum: 0.9579442774411291
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7582166357897222
+  lightness: 0.7759371674619615
+  saturation: 0.13062378764152527
+  rhythmicContrast: 0.20615110732614994
+purpose: []
