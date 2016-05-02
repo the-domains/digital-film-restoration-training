@@ -1,7 +1,7 @@
 name: Digital Film Restoration Training
 favicon: null
-layout_spectrum: 0.9194098515436053
-typography_spectrum: 0.9579442774411291
+layout_spectrum: 0.48201
+typography_spectrum: 0.49499
 title: Digital Film Restoration Training
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7582166357897222
+  brandStrength: 1
   lightness: 0.7759371674619615
   saturation: 0.13062378764152527
   rhythmicContrast: 0.20615110732614994
